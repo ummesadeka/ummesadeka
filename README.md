@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ummesadeka
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript, React, Next.js & Blockchain.
 
 
 <!---
